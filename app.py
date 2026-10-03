@@ -2,7 +2,7 @@ import streamlit as st
 import string
 import nltk
 import joblib
-nltk.downloads('stopwords')
+nltk.download('stopwords')
 nltk.download('punkit')
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
