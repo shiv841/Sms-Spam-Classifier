@@ -2,7 +2,7 @@
 
 **Live App Link:** https://sms-spam-classifier-muuy6pwwfgwehkrvrlmie8.streamlit.app/
 
-Ye NLP se bana hua Spam Detection app hai.
+This is a spam detection app built using NLP
 
 ### Tech Stack
 - Python, NLTK, Scikit-learn, Streamlit
@@ -11,4 +11,4 @@ Ye NLP se bana hua Spam Detection app hai.
 - Spam / Not Spam prediction
 - Deployed on Streamlit Cloud
 
-Made with ❤️ by Shiv
+Made by :- Shiv Kushwaha
