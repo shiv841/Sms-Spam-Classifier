@@ -4,6 +4,7 @@ import nltk
 import joblib
 nltk.download('stopwords')
 nltk.download('punkit')
+nltk.download('punkt_tab)
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 
